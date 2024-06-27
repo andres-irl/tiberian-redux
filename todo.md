@@ -14,17 +14,11 @@ DebrisMaximums=1,1
 VoxelIndex # so u can select individual parts of a compound voxel e.g. mammoth legs
 
 [todo]
+- verify arty: debris, and ROF nerf
+- rem detection attribute from all humanoid agents: gdi/nod/civilian, verify w chameleon spy
+
 
 {
     STNK
     change weapon to surface-surface-laser
 }
-
-[verify]
-- arty: debris, and ROF nerf
-- harpy/orca can reveal map, shoot faster
-- chamSpy: cloaks faster
-- Stnk: cloaks faster
-- tiberium grows 20% faster
-
-elite = SENSORS
