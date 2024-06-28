@@ -8,11 +8,11 @@ DebrisMaximums=1,1
 - voxels in /tibsun.mix/local.mix/1tnkbarl.hva
 
 
-- arty.hva, artybarl.hva
 
 [new settings]
 VoxelIndex # so u can select individual parts of a compound voxel e.g. mammoth legs
 
 [todo]
-- nerf Arty a bit
-- git 
+- reduce tech levels by 2
+- cyborg commando drops to 600
+- add a god-mode test unit
