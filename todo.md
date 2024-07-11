@@ -15,4 +15,3 @@ VoxelIndex # so u can select individual parts of a compound voxel e.g. mammoth l
 [todo]
 - reduce tech levels by 2
 - cyborg commando drops to 600
-- add a god-mode test unit
