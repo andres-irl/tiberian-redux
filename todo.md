@@ -12,6 +12,3 @@ DebrisMaximums=1,1
 [new settings]
 VoxelIndex # so u can select individual parts of a compound voxel e.g. mammoth legs
 
-[todo]
-- reduce tech levels by 2
-- cyborg commando drops to 600
